@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\PR 8.1.2(Char)\Source.cpp(31,7): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\PR 8.1.2(Char)\Source.cpp(32,7): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\PR 8.1.2(Char)\Source.cpp(53,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\PR 8.1.2(Char)\Source.cpp(54,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\PR 8.1.2(Char)\Source.cpp(68,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\UnitTest1\UnitTest1.cpp(16,1): error C2664: 'char *Change(char *)': cannot convert argument 1 from 'std::string' to 'char *'
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\UnitTest1\UnitTest1.cpp(16,14): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+D:\University\Algoritmizaciya and programyvanya\PR 8.1.2(Char)\PR 8.1.2(Char)\Source.cpp(12,7): message : see declaration of 'Change'
